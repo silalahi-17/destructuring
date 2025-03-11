@@ -77,4 +77,4 @@ function printBuku({judul,halaman:hlm,  harga, bab, penerbit = " gramedia"}) { /
 }
 printBuku(buku)
 
-//pemanggilan dari halaman juga harus menggunakan value dari alias tadi yaiut hml
+//pemanggilan dari halaman juga harus menggunakan value dari alias tadi yaitu hml
